@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-kdojbc.nuansa138.xyz/sitemap.xml
